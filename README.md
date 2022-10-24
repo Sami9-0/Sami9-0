@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Sami9-0
-- 👀 I’m interested in Robotics and robots. I love them.
-- 🌱 I’m currently learning c++ and I'm an upcoming cs student
-- 💞️ I’m looking to collaborate on any project related to cs and robotics and also arduino
+- 👋 Hi, I’m Samson Amanuel.
+- 👀 I’m interested in Robotics and AI.
+- 🌱 I’m currently a student aspiring to become a software engineer.
+- 💞️ I’m looking to collaborate on any project related to web development and robotics and also arduino
 - 📫 How to reach me on my email samsontsegenate@gmail.com
 
 <!---
